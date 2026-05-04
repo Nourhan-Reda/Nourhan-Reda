@@ -87,12 +87,29 @@ const nourhan = {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nourhan-Reda&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a020f0&icon_color=a020f0&text_color=ffffff&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhan-Reda&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a020f0&text_color=ffffff&langs_count=8" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nourhan-Reda&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=a020f0&ring=a020f0&fire=ff4b2b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nourhan-Reda&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
@@ -103,14 +120,12 @@ const nourhan = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nourhan-Reda/Nourhan-Reda/dist/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nourhan-Reda/Nourhan-Reda/dist/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nourhan-Reda/Nourhan-Reda/dist/github-snake.svg"/>
 </picture>
 
 </div>
-
-> **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
 
 ---
 
