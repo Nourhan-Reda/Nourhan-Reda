@@ -91,14 +91,6 @@ const nourhan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nourhan-Reda&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a020f0&icon_color=a020f0&text_color=ffffff&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhan-Reda&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a020f0&text_color=ffffff&langs_count=8" height="165"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nourhan-Reda&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=a020f0&ring=a020f0&fire=ff4b2b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
 
 </div>
