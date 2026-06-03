@@ -88,23 +88,6 @@ const nourhan = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nourhan-Reda&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=a020f0&ring=a020f0&fire=ff4b2b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nourhan-Reda&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
 
 ---
 
